@@ -358,7 +358,7 @@ body {
     </section>
 
     <footer class="footer">
-        <p>&copy; 2026 NexaTech — Todos os direitos reservados</p>
+        <p>&copy; 2026 Nelson Jaime — Todos os direitos reservados</p>
     </footer>
 
     <script>
