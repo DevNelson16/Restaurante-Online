@@ -1,4 +1,3 @@
-```php
 <?php
 
 require 'includes/db.php';
@@ -646,4 +645,3 @@ $produtos = $pdo->query(
 
 </body>
 </html>
-```
